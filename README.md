@@ -1,6 +1,6 @@
 # Injected IRC — downloads
 
-Injected is a modern IRC client with a 24/7 cloud bouncer. Sign in with your Injected account to get stored history, @highlights, image uploads and typing indicators on every device.
+Injected is a modern IRC client with a 24/7 cloud bouncer. Sign in with your Injected account to get stored history, highlights, image uploads and typing indicators on every device.
 
 **Get the latest version from [Releases](https://github.com/s4turns/Injected-releases/releases/latest).**
 
